@@ -1,0 +1,450 @@
+    1  lspci
+    2  python
+    3  javac
+    4  file /sbin/init
+    5  java -version
+    6  sudo apt install default-jre 
+    7  java -version
+    8  sudo apt install default-jdk
+    9  javac
+   10  javac -version
+   11  clear
+   12  apt-get install gcc g++
+   13  apt-get install gcc
+   14  sudo apt-get install gcc
+   15  python
+   16  ls
+   17  python
+   18  cls
+   19  clear
+   20  python -v
+   21  python -version
+   22  python --version
+   23  anaconda
+   24  sudo apt-get install bluez
+   25  sudo /etc/init.d/networking restart
+   26  sudo /etc/init.d/bluetooth start
+   27  free -m
+   28  sudo pip3 install tensorflow
+   29  sudo apt update
+   30  sudo apt install python3-dev python3-pip
+   31  virtualenv --system-site-packages -p python3 ./venv
+   32  pip3 --version
+   33  virtualenv --version
+   34  sudo apt install virtualenv
+   35  virtualenv --system-site-packages -p python3 ./venv
+   36  source ./venv/bin/activate
+   37  pip install --upgrade pip
+   38  pip list
+   39  pip install tensorflow
+   40  jupyter
+   41  sudo apt install jupyter-core
+   42  jupyter notebook
+   43  jupyter
+   44  apt-get insall python-pip python-dev
+   45  apt-get install python-pip python-dev
+   46  deactvate
+   47  deactivate
+   48  apt-get install python-pip python-dev
+   49  sudo apt-get install python-pip python-dev
+   50  python --version
+   51  sudo apt-get update python
+   52  sudo apt-get install python3.7
+   53  python --version
+   54  python3 --version
+   55  sudo apt-get upgrade python3
+   56  python --version
+   57  python3 -V
+   58  whereis pip
+   59  apt remove python --simulate
+   60  python --version
+   61  sudo pip install --upgrde pip
+   62  sudo pip install --upgrade pip
+   63  pip install jupyter
+   64  sudo pip install jupyter
+   65  jupyter notebook
+   66  sudo pip3 install jupyter
+   67  jupyter notebook
+   68  ls
+   69  cd .gem
+   70  cd extensions/x86_64-linux/2.6.0/nokogiri-1.10.3/
+   71  ls
+   72  mkmf.log
+   73  open mkmf.log 
+   74  vi mkmf.log 
+   75  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   76  sudo apt install gnupg2
+   77  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   78  \curl -sSL https://get.rvm.io | bash -s stable
+   79  sudo apt install curl
+   80  \curl -sSL https://get.rvm.io | bash -s stable
+   81  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   82  rails --version
+   83  source /home/sangram/.rvm/scripts/rvm
+   84  cd..
+   85  cd ..
+   86  cd ../..
+   87  cd ..
+   88  ls
+   89  rails --version
+   90  ruby --version
+   91  gem --version
+   92  ls
+   93  cd workspace
+   94  mkdir workspace
+   95  cd workspace/
+   96  mkdir ruby
+   97  ls
+   98  cd ruby/
+   99  mkdir rails
+  100  cd rails/
+  101  rails new rubyslist
+  102  python
+  103  python --version
+  104  exit
+  105  ruby -v
+  106  sudo snap install ruby
+  107  sudo snap install ruby --classic
+  108  gem
+  109  gem --v
+  110  gem --version
+  111  sqlite3 --version
+  112  sudo apt install sqlite3
+  113  gem install rails
+  114  rails --version
+  115  gem update --system 
+  116  sudo apt install ruby
+  117  ruby --version
+  118  gem update --system 
+  119  gem install rails
+  120  telnet http://www.example.com
+  121  telnet http://www.iana.org
+  122  telnet http://iana.org
+  123  telnet iana.org 80
+  124  telnet www.google.com 80
+  125  curl -I www.google.com
+  126  python
+  127  curl -I "http://www.example.com"
+  128  rails routes
+  129  rails generate controller Articles
+  130  rails generate model Article title:string text:text
+  131  rails db:migrate
+  132  rails routes
+  133  cd ..
+  134  cd db
+  135  ;s
+  136  ls
+  137  cd mg
+  138  cd migrate/
+  139  ls
+  140  rails generate model Comment commenter:string body:text articles:references
+  141  rails db:migrate
+  142  rails generate controller Comments
+  143  rails generate model Comment commenter:string body:text article:references
+  144  rails generate model Comment commenter:string body:text article:references --force
+  145  rails db:migrate
+  146  rails db:migrate --force
+  147  rake db:rollback STEP=1
+  148  rake db:rollback
+  149  rake db:migrate:Down VERSION=20190623065635
+  150  rake db:migrate:down VERSION=20190623065635
+  151  rake db:rollback STEP=1
+  152  rails db:migrate
+  153  rails db:rollback
+  154  rails db:migrate
+  155  rails generate model Comment commenter:string body:text article:references --force
+  156  rails db:migrate
+  157  sudo service sddm restart
+  158  ruby -v
+  159  sqllite3 --version
+  160  sqlite3 --version
+  161  rails --version
+  162  ls
+  163  cd workspace/
+  164  ls
+  165  cd ruby/
+  166  ls
+  167  cd rails
+  168  ls
+  169  rails new blog
+  170  cd blog/
+  171  ls
+  172  clear
+  173  ls
+  174  cd bin
+  175  rails server
+  176  clear
+  177  python
+  178  clear
+  179  rails generate controller Welcome index
+  180  rails server
+  181  sudo make install
+  182  cd/
+  183  cd /
+  184  ls
+  185  cd home/
+  186  ls
+  187  cd sa
+  188  ls
+  189  cd sa
+  190  cd sangram/
+  191  ls
+  192  cd Downloads/
+  193  ls
+  194  gem install bundler
+  195  ls
+  196  cd ..
+  197  cd workspace/
+  198  cd ruby/
+  199  ls
+  200  cd fomotograph-master/
+  201  ls
+  202  bundle install
+  203  cd home/sangram/.rvm/gems/ruby-2.6.3/extensions/x86_64-linux/2.6.0/json-1.8.3
+  204  cd /home/sangram/.rvm/gems/ruby-2.6.3/extensions/x86_64-linux/2.6.0/json-1.8.3
+  205  vi gem_make.out 
+  206  clear
+  207  bundle install
+  208  ruby app.eb
+  209  gem install json -v '1.8.3' --source 'https://rubygems.org/'
+  210  bundle install
+  211  rm Gemfile.lock
+  212  bundle install
+  213  ruby app.rb
+  214  sudo gem install httparty
+  215  ruby app.rb
+  216  cd workspace/
+  217  cd ruby/
+  218  ls
+  219  cd rai
+  220  cd rails/
+  221  ls
+  222  cd blog/
+  223  ls
+  224  cd test
+  225  ls
+  226  rails -v
+  227  ruby -v
+  228  sudo snap install --classic heroku
+  229  clear
+  230  ls
+  231  cd workspace/
+  232  cd ruby/
+  233  ls
+  234  cd rails/
+  235  cd environment/
+  236  ls
+  237  clear
+  238  rails new toy_app
+  239  rails new toy_app -d postgresql
+  240  cd toy_app/
+  241  bundle install
+  242  rails server
+  243  rails db:setup
+  244  rails db:migrate
+  245  git init
+  246  git add -A
+  247  git status
+  248  git commit -m "Initialize repository"
+  249  git remote add origin https://github.com/SangramMohite/toy_app.git
+  250  git remote -v
+  251  git push -u origin --all
+  252  git status
+  253  git commit -a -m "Add Hello"
+  254  git push
+  255  heroku create
+  256  git push heroku master
+  257  heroku open
+  258  rails generate scaffold User name:string email:string
+  259  rails db:migrate
+  260  rails generate scaffold Micropost content:text user_id:integer 
+  261  rails db:migrate
+  262  git status
+  263  rails console
+  264  git status
+  265  git add -a
+  266  git add -A
+  267  git commit -m "Finish toy app"
+  268  git push origin
+  269  git push
+  270  git push heroku
+  271  heroku run rails db:migrate
+  272  heroku open
+  273  git status
+  274  git commit -a -m "Remove first post for user show."
+  275  git push origin
+  276  git push heroku
+  277  heroku open
+  278  cd ..
+  279  rails new sample_app
+  280  cd sample_app/
+  281  bundle install --without production
+  282  git init
+  283  git add -A
+  284  git commit -m "Initialize repository"
+  285  git commit -m "Improve the README"
+  286  git status
+  287  git commit -m "Improve the README"
+  288  git commit -a -m "Improve the README"
+  289  cd ..
+  290  rails new sample_app -d postgresql
+  291  cd sample_app/
+  292  rails db:Setup
+  293  rails db:setup
+  294  rails db:migrate
+  295  git init
+  296  git status
+  297  git add -A
+  298  git commit -m "Initialize Repository"
+  299  git remote add origin https://github.com/SangramMohite/sample_app.git
+  300  git push -u origin --all
+  301  git commit -a -m "Update README"
+  302  git push origin
+  303  git commit -a -m "Add Hello"
+  304  git push origin
+  305  heroku create
+  306  git push heroku master
+  307  heroku open
+  308  git checkout -b static-pages
+  309  git branch
+  310  rails generate controller StaticPages home help
+  311  git add -A
+  312  git commit -m "Add a Static pages controller"
+  313  git push -u origin static-pages
+  314  git push
+  315  rails generate controller Foo bar baz
+  316  rails destroy controller Foo bar baz
+  317  rails test
+  318  git add -A
+  319  git commit -m "Finish static pages"
+  320  git checkout master
+  321  git merge static-pages
+  322  git push origin
+  323  rails test
+  324  git push heroku
+  325  heroku open
+  326  rails test
+  327  git checkout master
+  328  rails test
+  329  bundle install --without production
+  330  rails test
+  331  git status
+  332  git commit -m "Update Gemfile to use Minitest"
+  333  git commit -a -m "Update Gemfile to use Minitest"
+  334  git push origin
+  335  bundle exec guard init
+  336  git checkout -b rails-flavored-ruby
+  337  git branch
+  338  rails test
+  339  git status
+  340  git branch
+  341  git checkout master
+  342  git merge rails-flavored-ruby 
+  343  rails test
+  344  git push 
+  345  git push heroku
+  346  heroku open
+  347  git checkout -b filling-in-layout
+  348  curl -o app/assets/images/rails.png -OL https://railstutorial.org/rails.png
+  349  curl -OL https://cdn.learnenough.com/kitten.jpg
+  350  ls
+  351  mv kitten.jpg app/assets/images/
+  352  ls
+  353  bundle install
+  354  touch app/assets/stylesheets/custom.scss
+  355  rails test
+  356  rails generate integration_test site_layout
+  357  rails test:integration
+  358  rails test
+  359  rails generate controller Users new
+  360  rails test
+  361  git status
+  362  git commit -a -m "Finsih layput and routes"
+  363  git checkout master
+  364  git merge filling-in-layout 
+  365  rails test
+  366  git push
+  367  git push heroku
+  368  heroku open
+  369  git status
+  370  git add -A
+  371  git commit -m "Add missing files"
+  372  git push
+  373  git push heroku
+  374  heroku open
+  375  git checkout -b modeling-users
+  376  rails generate mdoel User name:string email:string dob:datetime
+  377  rails generate model User name:string email:string
+  378  rails db:migrate
+  379  rails test
+  380  rails test:models
+  381  rails test
+  382  rails test:models
+  383  rails test
+  384  rails test:models
+  385  rails test
+  386  rails generate migration add_index_to_users_email
+  387  rails db:migrate
+  388  rails tesr
+  389  rails test
+  390  rails generate migration add_password_digest_to_users password_digest:string
+  391  rails db:migrate
+  392  bundle install
+  393  rails test
+  394  rails test:models
+  395  rails test
+  396  git status
+  397  git add -A
+  398  git commit -m "Make a basic User model(with password)"
+  399  git checkout master
+  400  git merge modeling-users 
+  401  rails test
+  402  git push
+  403  rails test
+  404  git push heroku
+  405  heroku run rails db:migrate
+  406  git checkout -b sign-up
+  407  mkdir app/views/shared
+  408  rails generate integration_test users_signup
+  409  rails test
+  410  rails db:migrate:reset
+  411  sudo service postgresql restart
+  412  rails db:migrate:reset
+  413  rails test
+  414  git status
+  415  git add -A
+  416  git commit -m "Finish user signup"
+  417  git checkout master
+  418  git merge sign-up 
+  419  rails test
+  420  git status
+  421  git add -A
+  422  git commit -m "Use SSL and the Puma webserver in production"
+  423  git push
+  424  git push heroku
+  425  heroku run rails db:migrate
+  426  heroku open
+  427  rails test
+  428  git checkout -b user-micropsts
+  429  rails generate model Micropost content:text user:references
+  430  add_index :microposts, [:user_id, :created_at]
+  431  rails db:migrate
+  432  rails test:models
+  433  rails test
+  434  rails db:rollback
+  435  rails destroy model Micropost content:text user:references
+  436  git branch
+  437  get checkout master
+  438  git checkout master
+  439  git branch -d user-micropsts 
+  440  git checkout -b basic-login
+  441  git status
+  442  rails generate controller Sessions new
+  443  rails test
+  444  rails routes
+  445  rails generate integration_test users_login
+  446  rails test test/integration/users_login_test.rb
+  447  rails test
+  448  bundle install
+  449  history -a > rails.txt
+  450  history > rails.txt

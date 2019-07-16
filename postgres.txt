@@ -1,0 +1,333 @@
+    1  lspci
+    2  python
+    3  javac
+    4  file /sbin/init
+    5  java -version
+    6  sudo apt install default-jre 
+    7  java -version
+    8  sudo apt install default-jdk
+    9  javac
+   10  javac -version
+   11  clear
+   12  apt-get install gcc g++
+   13  apt-get install gcc
+   14  sudo apt-get install gcc
+   15  python
+   16  ls
+   17  python
+   18  cls
+   19  clear
+   20  python -v
+   21  python -version
+   22  python --version
+   23  anaconda
+   24  sudo apt-get install bluez
+   25  sudo /etc/init.d/networking restart
+   26  sudo /etc/init.d/bluetooth start
+   27  free -m
+   28  sudo pip3 install tensorflow
+   29  sudo apt update
+   30  sudo apt install python3-dev python3-pip
+   31  virtualenv --system-site-packages -p python3 ./venv
+   32  pip3 --version
+   33  virtualenv --version
+   34  sudo apt install virtualenv
+   35  virtualenv --system-site-packages -p python3 ./venv
+   36  source ./venv/bin/activate
+   37  pip install --upgrade pip
+   38  pip list
+   39  pip install tensorflow
+   40  jupyter
+   41  sudo apt install jupyter-core
+   42  jupyter notebook
+   43  jupyter
+   44  apt-get insall python-pip python-dev
+   45  apt-get install python-pip python-dev
+   46  deactvate
+   47  deactivate
+   48  apt-get install python-pip python-dev
+   49  sudo apt-get install python-pip python-dev
+   50  python --version
+   51  sudo apt-get update python
+   52  sudo apt-get install python3.7
+   53  python --version
+   54  python3 --version
+   55  sudo apt-get upgrade python3
+   56  python --version
+   57  python3 -V
+   58  whereis pip
+   59  apt remove python --simulate
+   60  python --version
+   61  sudo pip install --upgrde pip
+   62  sudo pip install --upgrade pip
+   63  pip install jupyter
+   64  sudo pip install jupyter
+   65  jupyter notebook
+   66  sudo pip3 install jupyter
+   67  jupyter notebook
+   68  ls
+   69  cd .gem
+   70  cd extensions/x86_64-linux/2.6.0/nokogiri-1.10.3/
+   71  ls
+   72  mkmf.log
+   73  open mkmf.log 
+   74  vi mkmf.log 
+   75  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   76  sudo apt install gnupg2
+   77  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   78  \curl -sSL https://get.rvm.io | bash -s stable
+   79  sudo apt install curl
+   80  \curl -sSL https://get.rvm.io | bash -s stable
+   81  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   82  rails --version
+   83  source /home/sangram/.rvm/scripts/rvm
+   84  cd..
+   85  cd ..
+   86  cd ../..
+   87  cd ..
+   88  ls
+   89  rails --version
+   90  ruby --version
+   91  gem --version
+   92  ls
+   93  cd workspace
+   94  mkdir workspace
+   95  cd workspace/
+   96  mkdir ruby
+   97  ls
+   98  cd ruby/
+   99  mkdir rails
+  100  cd rails/
+  101  rails new rubyslist
+  102  python
+  103  python --version
+  104  exit
+  105  ruby -v
+  106  sudo snap install ruby
+  107  sudo snap install ruby --classic
+  108  gem
+  109  gem --v
+  110  gem --version
+  111  sqlite3 --version
+  112  sudo apt install sqlite3
+  113  gem install rails
+  114  rails --version
+  115  gem update --system 
+  116  sudo apt install ruby
+  117  ruby --version
+  118  gem update --system 
+  119  gem install rails
+  120  telnet http://www.example.com
+  121  telnet http://www.iana.org
+  122  telnet http://iana.org
+  123  telnet iana.org 80
+  124  telnet www.google.com 80
+  125  curl -I www.google.com
+  126  python
+  127  curl -I "http://www.example.com"
+  128  rails routes
+  129  rails generate controller Articles
+  130  rails generate model Article title:string text:text
+  131  rails db:migrate
+  132  rails routes
+  133  cd ..
+  134  cd db
+  135  ;s
+  136  ls
+  137  cd mg
+  138  cd migrate/
+  139  ls
+  140  rails generate model Comment commenter:string body:text articles:references
+  141  rails db:migrate
+  142  rails generate controller Comments
+  143  rails generate model Comment commenter:string body:text article:references
+  144  rails generate model Comment commenter:string body:text article:references --force
+  145  rails db:migrate
+  146  rails db:migrate --force
+  147  rake db:rollback STEP=1
+  148  rake db:rollback
+  149  rake db:migrate:Down VERSION=20190623065635
+  150  rake db:migrate:down VERSION=20190623065635
+  151  rake db:rollback STEP=1
+  152  rails db:migrate
+  153  rails db:rollback
+  154  rails db:migrate
+  155  rails generate model Comment commenter:string body:text article:references --force
+  156  rails db:migrate
+  157  sudo service sddm restart
+  158  ruby -v
+  159  sqllite3 --version
+  160  sqlite3 --version
+  161  rails --version
+  162  ls
+  163  cd workspace/
+  164  ls
+  165  cd ruby/
+  166  ls
+  167  cd rails
+  168  ls
+  169  rails new blog
+  170  cd blog/
+  171  ls
+  172  clear
+  173  ls
+  174  cd bin
+  175  rails server
+  176  clear
+  177  python
+  178  clear
+  179  rails generate controller Welcome index
+  180  rails server
+  181  sudo make install
+  182  cd/
+  183  cd /
+  184  ls
+  185  cd home/
+  186  ls
+  187  cd sa
+  188  ls
+  189  cd sa
+  190  cd sangram/
+  191  ls
+  192  cd Downloads/
+  193  ls
+  194  gem install bundler
+  195  ls
+  196  cd ..
+  197  cd workspace/
+  198  cd ruby/
+  199  ls
+  200  cd fomotograph-master/
+  201  ls
+  202  bundle install
+  203  cd home/sangram/.rvm/gems/ruby-2.6.3/extensions/x86_64-linux/2.6.0/json-1.8.3
+  204  cd /home/sangram/.rvm/gems/ruby-2.6.3/extensions/x86_64-linux/2.6.0/json-1.8.3
+  205  vi gem_make.out 
+  206  clear
+  207  bundle install
+  208  ruby app.eb
+  209  gem install json -v '1.8.3' --source 'https://rubygems.org/'
+  210  bundle install
+  211  rm Gemfile.lock
+  212  bundle install
+  213  ruby app.rb
+  214  sudo gem install httparty
+  215  ruby app.rb
+  216  cd workspace/
+  217  cd ruby/
+  218  ls
+  219  cd rai
+  220  cd rails/
+  221  ls
+  222  cd blog/
+  223  ls
+  224  cd test
+  225  ls
+  226  rails -v
+  227  ruby -v
+  228  sudo snap install --classic heroku
+  229  ruby -c
+  230  ruby -v
+  231  git
+  232  sudo apt install git
+  233  clear
+  234  git config --global user.name "sangram.github"
+  235  git config --global user.email "sangram.github@gmail.com"
+  236  ls
+  237  clear
+  238  git init
+  239  git add -A
+  240  git status
+  241  git commit -m "Initialize repository"
+  242  git log
+  243  git remote add origin https://github.com/SangramMohite/hello_app
+  244  git push origin master
+  245  git pull https://github.com/SangramMohite/hello_app
+  246  git remote -v
+  247  git push origin master
+  248  git push --force  origin master
+  249  git checkout -b modify-README
+  250  git branch
+  251  git status
+  252  git commit -a -m " Improve Readme file"
+  253  git checkout master
+  254  git merge modify-README
+  255  git branch -d modify-README
+  256  git push
+  257  git bracnh
+  258  git branch
+  259  git remote -v
+  260  git push origin master
+  261  bundle install --without production
+  262  git commit -a -m "Update Gemfile for Heroku" 
+  263  heroku --version
+  264  git remote -v
+  265  git push origin
+  266  postgres
+  267  postgress
+  268  rails console
+  269  cd ..
+  270  rails console
+  271  exit
+  272  pgdb
+  273  rails consose
+  274  rails console
+  275  clear
+  276  rails console --sandbox
+  277  clear
+  278  rails console --sandbox
+  279  rails console
+  280  clear
+  281  rails console --sandbox
+  282  rails console
+  283  rails test
+  284  git status
+  285  git add -a -m "Add a full_title helper"
+  286  git commit -a -m "Add a full_title helper"
+  287  git status
+  288  git push origin
+  289  postgres
+  290  psql
+  291  su - postgres
+  292  sudo su - postegres
+  293  psql
+  294  su - postgres
+  295  sudo passwd postgres
+  296  su - postgres
+  297  su - rails_dev
+  298  su - postgres
+  299  cd workspace/
+  300  ls
+  301  cd ruby/
+  302  ls
+  303  cd rails/
+  304  ls
+  305  mkdir environment
+  306  cd environment/
+  307  clear
+  308  rails new hello_app
+  309  rail server
+  310  rails server
+  311  cd bin
+  312  rails server
+  313  cd ..
+  314  clear
+  315  ls
+  316  cd environment/
+  317  ls
+  318  cd hello_app/
+  319  ls
+  320  rails server
+  321  clear
+  322  cd ..
+  323  cd toy_app/
+  324  rails server
+  325  clear
+  326  rails server
+  327  cd ..
+  328  cd sample_app/
+  329  rails server
+  330  clear
+  331  rails server
+  332  su - postgres
+  333  history > postgres.txt
